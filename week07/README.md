@@ -4,6 +4,7 @@
 
 - [본 강의](./lesson.md)
 - [과제](./homework.md)
+- [참고자료 - 도커(Docker) 설정](./docker_setup.md)
 
 ## 학습 목표
 - 가상화 및 컨테이너 관리 기초 학습
