@@ -2,8 +2,10 @@
 
 이번 주차에서는 Apache/Nginx 웹 서버 설치 및 기본 보안 설정에 대해 학습합니다.
 
-- [강의 내용: lesson.md](./lesson.md)
-- [과제: homework.md](./homework.md)
+- [본 강의](./lesson.md)
+- [과제](./homework.md)
+- [참고자료 - 아파치 NGINX 셋업](./apache_nginx_setup.md)
+- [참고자료 - 보안설정](./security_settings.md)
   
 ## 학습 목표
 - 웹 서버 설치 및 기본 보안 설정 실습
