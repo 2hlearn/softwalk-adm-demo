@@ -2,6 +2,9 @@
 
 이번 주차에서는 DevOps의 개념과 CI/CD 파이프라인을 구축하는 방법을 학습합니다. Jenkins와 GitHub Actions를 사용하여 자동화된 빌드 및 배포를 설정합니다.
 
+- [본 강의](./lesson.md)
+- [과제](./homework.md)
+
 ## 학습 목표
 - DevOps의 기본 개념 이해
 - Jenkins와 GitHub Actions를 활용한 CI/CD 파이프라인 구축
