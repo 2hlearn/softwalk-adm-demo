@@ -2,8 +2,10 @@
 
 이번 주차에서는 시스템 관리의 기본 개념과 운영체제(Linux, Windows)의 기본 구조와 역할을 학습합니다. 운영체제의 관리, 프로세스 및 메모리 관리, 네트워크 설정 등을 다루며, 실제 서버 환경에서 발생할 수 있는 문제 해결 방법도 실습합니다.
 
-- [강의 내용: lesson.md](./lesson.md)
-- [과제: homework.md](./homework.md)
+- [본 강의](./lesson.md)
+- [과제](./homework.md)
+- [참고자료 - 리눅스 셋업](./linux_setup_guide.md)
+- [참고자료 - 윈도우즈 셋업](./windows_setup_guide.md)
 
 ## 학습 목표
 - 시스템 관리의 기본 개념 이해
