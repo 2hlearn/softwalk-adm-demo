@@ -2,8 +2,10 @@
 
 이번 주차에서는 네트워크의 기본 개념을 학습하고, IP 설정 및 방화벽 규칙을 작성하는 실습을 진행합니다.
 
-- [강의 내용: lesson.md](./lesson.md)
-- [과제: homework.md](./homework.md)
+- [본 강의](./lesson.md)
+- [과제](./homework.md)
+- [참고자료 - 네트워크 셋업](./network_setup_guide.md)
+
 
 ## 학습 목표
 - 네트워크의 기본 개념 이해
