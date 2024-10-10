@@ -4,6 +4,7 @@
 
 - [본 강의](./lesson.md)
 - [과제](./homework.md)
+- [참고자료 - MySQL 및 PostgreSQL 설정](./mysql_postgresql_setup.md)
 
 ## 학습 목표
 - 데이터베이스 설치 및 관리 실습
