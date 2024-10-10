@@ -6,7 +6,6 @@
 - [과제](./homework.md)
 - [참고자료 - 기타주제](./subtopic.md)
 
-
 ## 학습 목표
 - DevOps의 기본 개념 이해
 - Jenkins와 GitHub Actions를 활용한 CI/CD 파이프라인 구축
