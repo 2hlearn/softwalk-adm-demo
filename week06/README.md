@@ -4,7 +4,7 @@
 
 - [본 강의](./lesson.md)
 - [과제](./homework.md)
-
+- [참고자료 - 모니터링 도구 실습](./monitoring_tools.md)
 
 ## 학습 목표
 - 서버 모니터링 도구 사용 방법 학습
