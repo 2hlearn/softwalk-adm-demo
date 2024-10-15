@@ -10,10 +10,6 @@ plugins:
 
 markdown: kramdown
 
----
-nav_exclude: true
----
-
 just_the_docs:
   navigation:
     - title: "Home"
