@@ -9,6 +9,7 @@ plugins:
 markdown: kramdown
 
 just_the_docs:
+ collections:
   navigation:
     - title: "Home"
       url: "/."
