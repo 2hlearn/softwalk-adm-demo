@@ -1,6 +1,8 @@
+---
 title: SoftWalk ADM Curriculum Demo
 description: >
   SoftWalk ADM 교육 커리큘럼의 데모 사이트입니다. GitHub Pages와 Jekyll을 사용하여 제작되었습니다.
+---
 
 #theme: just-the-docs # just-the-docs 테마
 
