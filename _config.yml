@@ -1,8 +1,6 @@
 title: SoftWalk ADM Curriculum Demo
 description: >
   SoftWalk ADM 교육 커리큘럼의 데모 사이트입니다. GitHub Pages와 Jekyll을 사용하여 제작되었습니다.
-  지금 보시는 theme은 Hacker 테마입니다. (https://github.com/pages-themes/hacker)에서 볼 수 있습니다.
-# theme: minima  # 원하는 테마로 교체 가능
 
 theme: just-the-docs # just-the-docs 테마
 
