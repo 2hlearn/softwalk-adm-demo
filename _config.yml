@@ -9,3 +9,16 @@ plugins:
   - jekyll-remote-theme # Ensure you have the plugin for remote themes
 
 markdown: kramdown
+
+---
+nav_exclude: true
+---
+
+just_the_docs:
+  navigation:
+    - title: "Home"
+      url: "/"
+    - title: "Week 01"
+      url: "/week01/"
+    - title: "Week 02"
+      url: "/week02/"
